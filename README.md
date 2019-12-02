@@ -16,7 +16,7 @@ originally designed for personal use— because staying informed with cyberpunk-
 
 [x]    desktop -> press and hold -> create a six page layout. make the homepage the last page.
 
-[x]    if dark mode isn’t your thing, go to klwp -> globals -> alttheme. optional, obviously. i recommend dark mode, hence why it’s the default.
+[x]    if dark mode isn’t your thing, go to klwp -> globals -> alttheme. optional, obviously. in fact, i recommend dark mode, hence why it’s the default.
 
 **future plans**
 
