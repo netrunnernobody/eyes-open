@@ -10,11 +10,11 @@ installation guide
 
 [x]    nova settings -> home screen
 
-   [x]     page indicator -> none
+   [x0001]     page indicator -> none
    
-   [x]     search bar placement -> none
+   [x0002]     search bar placement -> none
    
-   [x]     infinite scroll -> on
+   [x0003]     infinite scroll -> on
    
 [x]    nova settings -> screen orientation -> force portrait
 
