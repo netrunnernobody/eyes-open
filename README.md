@@ -24,3 +24,4 @@ i’d like to do the following, but had to forgo some of it in lieu of getting t
 [x]    a visual overhaul, maybe including an actual background, a blinking eye animation, or whatever else smarter, more artsy people think is stylish.
 [x]    tablet support, maybe? do people still even use tablets? i can’t imagine this working well on a tablet at the moment, because in the interest of saving time, i completely avoided creating an adaptive design. but i might need to make an adaptive design for this to work properly for other reasons, so who knows.
 
+remember, this is a beta. you'll probably have to tinker with it a bit.
