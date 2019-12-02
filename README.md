@@ -6,13 +6,11 @@ originally designed for personal use— because staying informed with cyberpunk-
 
 [x]    klwp -> hamburger menu -> load preset -> eyesopen
 
-[x]    nova settings -> home screen
+[x]    nova settings -> home screen -> page indicator -> none
 
-   [x0001]     page indicator -> none
+[x]    nova settings -> home screen -> search bar placement -> none
    
-   [x0002]     search bar placement -> none
-   
-   [x0003]     infinite scroll -> on
+[x]    nova settings -> home screen -> infinite scroll -> on
    
 [x]    nova settings -> screen orientation -> force portrait
 
